@@ -22,6 +22,7 @@ Focused city building and real-time tactical decision-making.
 Deals with API integration, and data processing.
 
 ---
+
 ## 📱 Google Play Developer Account
 Check out my published games on Google Play:  
 ➡️ [Google Play Developer Page](https://play.google.com/store/apps/developer?id=Sylirbas&hl=tr)
@@ -43,6 +44,6 @@ Check out my published games on Google Play:
 ---
 
 ## 📫 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/%C3%B6mer-faruk-s-50289021b) • [Email](omerfs0909@gmail.com) • [Google Play](https://play.google.com/store/apps/dev?id=YOUR_DEVELOPER_ID)
+[LinkedIn](https://www.linkedin.com/in/%C3%B6mer-faruk-s-50289021b) • [Email](omerfs0909@gmail.com)
 
 ---
