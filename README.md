@@ -44,6 +44,6 @@ Check out my published games on Google Play:
 ---
 
 ## 📫 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/%C3%B6mer-faruk-s-50289021b) • [Email](omerfs0909@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/%C3%B6mer-faruk-s-50289021b)
 
 ---
