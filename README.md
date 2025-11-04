@@ -10,7 +10,8 @@
 
 ### 🧩 [HexaSort](https://github.com/omerfs09/HexaSort)
 > A Unity-based mobile puzzle/strategy game.  
-Simple mechanics, smooth controls, and addictive gameplay.  
+Simple mechanics, smooth controls, and addictive gameplay.
+> [Link for demo](https://drive.google.com/file/d/1geQHifRimX9HCVUSKS58LYxRQJHIKhE0/view?usp=sharing)
 
 
 ### ⚔️ StrategyZ
